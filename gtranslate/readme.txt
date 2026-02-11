@@ -3,7 +3,7 @@ Contributors: edo888
 Author: Translate AI Multilingual Solutions
 Tags: translate, translator, multilingual, translation, language
 Requires at least: 2.8.1
-Tested up to: 6.8
+Tested up to: 6.9
 Stable tag: 3.0.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
